@@ -1,0 +1,134 @@
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.pdb
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Design.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.xml
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.xml
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.pdb
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.csprojResolveAssemblyReference.cache
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.pdb
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.dll
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Design.dll
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.dll
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Fonts.dll
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.xml
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.dll
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.pdb
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.csprojResolveAssemblyReference.cache
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Design.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.xml
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.csprojResolveAssemblyReference.cache
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.dll
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Design.dll
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.dll
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.xml
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.pdb
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.dll
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Design.dll
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.dll
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.xml
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.pdb
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.dll
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.dll
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.xml
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.dll
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.pdb
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.dll
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Design.dll
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.dll
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.xml
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.pdb
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.xml
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.pdb
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.xml
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.pdb
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.xml
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.pdb
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.pdb
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Design.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Fonts.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.xml
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.pdb
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll.config
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.csprojResolveAssemblyReference.cache
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll.config
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.Model\bin\Debug\Dapper.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.Model\bin\Debug\MetroFramework.Design.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.Model\bin\Debug\MetroFramework.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.Model\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.Model\bin\Debug\Dapper.xml
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll.config
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.Model\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Design.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.Model\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.Model\bin\Debug\Dapper.xml
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.Model\obj\Debug\IntegraPOS.Model.pdb

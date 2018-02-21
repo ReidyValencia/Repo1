@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="abrirCajaCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\abrirCajaCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="apartadosCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\apartadosCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="aprobarCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\aprobarCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="aprobarCir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\aprobarCir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bloqueoCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\bloqueoCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bodegasCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\bodegasCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buscarCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\buscarCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buscarCir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\buscarCir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buscarMasCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\buscarMasCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buscarMasCir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\buscarMasCir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cajaCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\cajaCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cajasConfigCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\cajasConfigCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="calculadoraCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\calculadoraCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="calendarioCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\calendarioCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="carritoComprasCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\carritoComprasCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cerrarCajaCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\cerrarCajaCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cerrarSesionCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\cerrarSesionCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cerrarSesionCir96x96" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\cerrarSesionCir96x96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clientesCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\clientesCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="comprasCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\comprasCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="configuracionCir96x96" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\configuracionCir96x96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="copiarCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\copiarCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="copiarCir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\copiarCir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cortarCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\cortarCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="corteCajaCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\corteCajaCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cotizacionesCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\cotizacionesCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="editarCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\editarCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="editarCir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\editarCir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eliminarCir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\eliminarCir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="empresaCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\empresaCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EnterCir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\EnterCir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EscCir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\EscCir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F10Cir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\F10Cir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F11Cir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\F11Cir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F12Cir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\F12Cir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F1Cir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\F1Cir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F2Cir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\F2Cir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F3Cir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\F3Cir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F4Cir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\F4Cir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F5Cir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\F5Cir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F6Cir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\F6Cir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F7Cir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\F7Cir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F8Cir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\F8Cir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F9Cir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\F9Cir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="facturasCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\facturasCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imprimirCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\imprimirCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imprimirFichaCir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\imprimirFichaCir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ingresoProductosCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\ingresoProductosCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="inicioCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\inicioCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="inicioCir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\inicioCir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mantAdminCir96x96" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\mantAdminCir96x96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mantComercialCir96x96" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\mantComercialCir96x96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mediosPagoCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\mediosPagoCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="monedasCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\monedasCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nuevoCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\nuevoCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nuevoCir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\nuevoCir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pdfCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\pdfCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pedidosCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\pedidosCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="perfilesCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\perfilesCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="procesosCajaCir96x96" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\procesosCajaCir96x96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="productosCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\productosCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="proveedoresCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\proveedoresCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="recibosCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\recibosCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="refrescarCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\refrescarCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="refrescarCir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\refrescarCir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="regresarCir48x48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\regresarCir48x48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reImprimirCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\reImprimirCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reportesCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\reportesCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="restringirCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\restringirCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sincronizarCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\sincronizarCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sucursalesCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\sucursalesCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tarjetaCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\tarjetaCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="transaccionesCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\transaccionesCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="transaccionesCir96x96" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\transaccionesCir96x96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="unidadesCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\unidadesCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usuariosCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\usuariosCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vendedoresCir128x128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\vendedoresCir128x128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logoIntegraPOS420x150_v10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\logoIntegraPOS420x150-v10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logoIntegraPOS420x150_v11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\logoIntegraPOS420x150-v11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logoIntegraPOS420x150_v3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\logoIntegraPOS420x150-v3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logoIntegraPOS420x150_v4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\logoIntegraPOS420x150-v4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logoIntegraPOS420x150_v5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\logoIntegraPOS420x150-v5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logoIntegraPOS420x150_v6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\logoIntegraPOS420x150-v6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logoIntegraPOS420x150_v7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\logoIntegraPOS420x150-v7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logoIntegraPOS420x150_v8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\logoIntegraPOS420x150-v8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logoIntegraPOS420x150_v9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img\logoIntegraPOS420x150-v9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

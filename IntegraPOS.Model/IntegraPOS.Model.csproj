@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5C279076-960C-46C2-9436-459F84354E81}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IntegraPOS.Model</RootNamespace>
+    <AssemblyName>IntegraPOS.Model</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=1.50.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.1.50.4\lib\net451\Dapper.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datos\ConfigurationModel.cs" />
+    <Compile Include="Datos\ConnectionModel.cs" />
+    <Compile Include="Datos\ConnectionReport.cs" />
+    <Compile Include="Entidades\Clases\CajaModel.cs" />
+    <Compile Include="Entidades\Clases\ClienteModel.cs" />
+    <Compile Include="Entidades\Clases\DetalleProductoModel.cs" />
+    <Compile Include="Entidades\Clases\MedioPagoModel.cs" />
+    <Compile Include="Entidades\Clases\MonedaModel.cs" />
+    <Compile Include="Entidades\Clases\PartidaModel.cs" />
+    <Compile Include="Entidades\Clases\TipoCedulaModel.cs" />
+    <Compile Include="Entidades\Clases\TipoTransaccionModel.cs" />
+    <Compile Include="Entidades\Clases\TransaccionEncabezadoModel.cs" />
+    <Compile Include="Entidades\Clases\VendedorModel.cs" />
+    <Compile Include="Entidades\Miscelaneos\BodegaModelMisc.cs" />
+    <Compile Include="Entidades\Miscelaneos\ConfigEmpresaModelMisc.cs" />
+    <Compile Include="Entidades\Miscelaneos\DireccionModelMisc.cs" />
+    <Compile Include="Entidades\Miscelaneos\MiscelaneosModel.cs" />
+    <Compile Include="Entidades\PopUps\PopUpProductoModel.cs" />
+    <Compile Include="Entidades\Reportes\FormatModel.cs" />
+    <Compile Include="Entidades\Reportes\ReportModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Entidades\Clases\UsuarioModel.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="SqlDataSet\IntegraPosDataSet_Format.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IntegraPosDataSet_Format.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SqlDataSet\IntegraPosDataSet_Report.cs">
+      <DependentUpon>IntegraPosDataSet_Report.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SqlDataSet\IntegraPosDataSet_Report.Designer.cs">
+      <DependentUpon>IntegraPosDataSet_Report.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="SqlDataSet\IntegraPosDataSet_Format.xsc">
+      <DependentUpon>IntegraPosDataSet_Format.xsd</DependentUpon>
+    </None>
+    <None Include="SqlDataSet\IntegraPosDataSet_Format.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>IntegraPosDataSet_Format.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SqlDataSet\IntegraPosDataSet_Format.xss">
+      <DependentUpon>IntegraPosDataSet_Format.xsd</DependentUpon>
+    </None>
+    <None Include="SqlDataSet\IntegraPosDataSet_Report.xsc">
+      <DependentUpon>IntegraPosDataSet_Report.xsd</DependentUpon>
+    </None>
+    <None Include="SqlDataSet\IntegraPosDataSet_Report.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>IntegraPosDataSet_Report1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SqlDataSet\IntegraPosDataSet_Report.xss">
+      <DependentUpon>IntegraPosDataSet_Report.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

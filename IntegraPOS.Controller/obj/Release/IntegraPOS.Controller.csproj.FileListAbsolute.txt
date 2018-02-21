@@ -1,0 +1,9 @@
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\bin\Release\IntegraPOS.Controller.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\bin\Release\IntegraPOS.Controller.pdb
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\obj\Release\IntegraPOS.Controller.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\obj\Release\IntegraPOS.Controller.pdb
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\bin\Release\IntegraPOS.Controller.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\bin\Release\IntegraPOS.Controller.pdb
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\obj\Release\IntegraPOS.Controller.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\obj\Release\IntegraPOS.Controller.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\obj\Release\IntegraPOS.Controller.pdb

@@ -1,0 +1,1106 @@
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\bin\Debug\IntegraPOS.exe.config
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\bin\Debug\IntegraPOS.exe
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\bin\Debug\IntegraPOS.pdb
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\bin\Debug\MetroFramework.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\obj\Debug\IntegraPOS.Login.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\obj\Debug\IntegraPOS.MasterPage.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\obj\Debug\IntegraPOS.Properties.Resources.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\obj\Debug\IntegraPOS.View.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\obj\Debug\IntegraPOS.exe
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\obj\Debug\IntegraPOS.pdb
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\obj\Debug\IntegraPOS.View.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\obj\Debug\IntegraPOS.FrmPrincipal.resources
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\bin\Debug\IntegraPOS.exe.config
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\bin\Debug\IntegraPOS.exe
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\bin\Debug\IntegraPOS.pdb
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\bin\Debug\MetroFramework.Design.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\bin\Debug\MetroFramework.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\obj\Debug\IntegraPOS.frmPrincipal.resources
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\obj\Debug\IntegraPOS.Login.resources
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\obj\Debug\IntegraPOS.MasterPage.resources
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\obj\Debug\IntegraPOS.Properties.Resources.resources
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\obj\Debug\IntegraPOS.View.csproj.GenerateResource.Cache
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\obj\Debug\IntegraPOS.exe
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\obj\Debug\IntegraPOS.pdb
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS\obj\Debug\IntegraPOS.View.csprojResolveAssemblyReference.cache
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.pdb
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.pdb
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.xml
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csprojResolveAssemblyReference.cache
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmFacturaMant.resources
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpClientes.resources
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpMedioPago.resources
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPrincipal.resources
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmAcceso.resources
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPage.resources
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpProductos.resources
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPagePopUp.resources
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Properties.Resources.resources
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Prototipos_de_diseños.resources
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csproj.GenerateResource.Cache
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlMenu.resources
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.pdb
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlDesplizar.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.pdb
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.pdb
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.xml
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmFacturaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.MDIParent1.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlDesplizar.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlMenu.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlTransacciones.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpClientes.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpMedioPago.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPrincipal.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmAcceso.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPage.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpProductos.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPagePopUp.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Properties.Resources.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Prototipos_de_diseños.resources
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.pdb
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.pdb
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.dll
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Design.dll
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.dll
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Fonts.dll
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.dll
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.dll
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.pdb
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.pdb
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.xml
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csprojResolveAssemblyReference.cache
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClienteMant.resources
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmFacturaMant.resources
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.MDIParent1.resources
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlDesplizar.resources
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlMenu.resources
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlTransacciones.resources
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpClientes.resources
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpDirecciones.resources
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpMedioPago.resources
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPrincipal.resources
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmAcceso.resources
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPage.resources
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpProductos.resources
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPagePopUp.resources
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Properties.Resources.resources
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Prototipos_de_diseños.resources
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csproj.GenerateResource.Cache
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+E:\En Desarrollo\IntegraPOS\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.xml
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csprojResolveAssemblyReference.cache
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClienteMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClientesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmFacturaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.MDIParent1.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlDesplizar.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlMenu.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlTransacciones.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpClientes.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpDirecciones.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpMedioPago.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPrincipal.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmAcceso.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPage.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpProductos.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPagePopUp.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Properties.Resources.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Prototipos_de_diseños.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csproj.GenerateResource.Cache
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.dll
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.dll
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.dll
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.xml
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csprojResolveAssemblyReference.cache
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Diseño_View.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Diseno_Mant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmAbrirCajaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmApartadoMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmBodegaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCajaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCierreCajaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClienteMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCorteCajaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCotizacionMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmEntradaInvMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMedioPagoMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMonedaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmPedidoMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProductoMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProveedorMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmReciboMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmSucursalMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmTransaccionMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUnidadMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUsuarioMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmVendedorMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAbrirCajasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmApartadosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmBodegasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCajasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCierreCajasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClientesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCorteCajasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCotizacionesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmFacturaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmEntradasInvView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmFacturasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmMediosPagoView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmMonedasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmPedidosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProductosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProveedoresView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmRecibosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmSucursalesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmUnidadesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmUsuariosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmVendedoresView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlAdministracion.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlComercial.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlConfiguracion.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlDesplizarMenu.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlProcesoCaja.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlTransaccion.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpClientes.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpDirecciones.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpMedioPago.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpMedioPagoPRO.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPrincipal.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmAcceso.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPage.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpProductos.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPagePopUp.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Properties.Resources.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Prototipos_de_diseños.resources
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csproj.GenerateResource.Cache
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+C:\Users\Reidy\Desktop\IntegraPOS\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.pdb
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.pdb
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.dll
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.dll
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.dll
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.pdb
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.xml
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csprojResolveAssemblyReference.cache
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Diseño_View.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Diseno_Mant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmAbrirCajaMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmApartadoMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmBodegaMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCajaMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCierreCajaMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClienteMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCorteCajaMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCotizacionMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmEntradaInvMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMedioPagoMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMonedaMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmPedidoMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProductoMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProveedorMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmReciboMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmSucursalMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmTransaccionMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUnidadMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUsuarioMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmVendedorMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAbrirCajasView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmApartadosView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmBodegasView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCajasView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCierreCajasView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClientesView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresaMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCorteCajasView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCotizacionesView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresasView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmFacturaMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmEntradasInvView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmFacturasView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmMediosPagoView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmMonedasView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmPedidosView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilesView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilMant.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProductosView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProveedoresView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmRecibosView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmSucursalesView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionesView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmUnidadesView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmUsuariosView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmVendedoresView.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlAdministracion.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlComercial.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlConfiguracion.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlDesplizarMenu.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlProcesoCaja.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlTransaccion.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpClientes.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpDirecciones.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpMedioPago.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpMedioPagoPRO.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPrincipal.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmAcceso.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPage.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpProductos.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPagePopUp.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Properties.Resources.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Prototipos_de_diseños.resources
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csproj.GenerateResource.Cache
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+C:\Users\Reidy\Desktop\Version Kevin\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.pdb
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.pdb
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.dll
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.dll
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.dll
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.pdb
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.xml
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Diseño_View.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Diseno_Mant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmAbrirCajaMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmApartadoMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmBodegaMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCajaMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCierreCajaMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClienteMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCorteCajaMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCotizacionMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmEntradaInvMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMedioPagoMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMonedaMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmPedidoMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProductoMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProveedorMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmReciboMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmSucursalMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmTransaccionMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUnidadMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUsuarioMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmVendedorMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAdministracionRpts.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmComercialRpts.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProcesoCajaRpts.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionRpts.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAbrirCajasView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmApartadosView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmBodegasView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCajasView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCierreCajasView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClientesView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresaMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCorteCajasView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCotizacionesView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresasView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmFacturaMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmEntradasInvView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmFacturasView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmMediosPagoView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmMonedasView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmPedidosView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilesView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilMant.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProductosView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProveedoresView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmRecibosView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmSucursalesView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionesView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmUnidadesView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmUsuariosView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmVendedoresView.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlAdministracion.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlComercial.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlConfiguracion.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlDesplizarMenu.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlProcesoCaja.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlTransaccion.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpClientes.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpDirecciones.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpMedioPago.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpMedioPagoPRO.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPrincipal.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmAcceso.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPage.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpProductos.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPagePopUp.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Properties.Resources.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Prototipos_de_diseños.resources
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+C:\Users\Kevin\Desktop\Proyecto IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.pdb
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.pdb
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.dll
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.dll
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.dll
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.pdb
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.xml
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csprojResolveAssemblyReference.cache
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Diseño_View.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Diseno_Mant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmAbrirCajaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmApartadoMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmBodegaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCajaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCierreCajaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClienteMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCorteCajaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCotizacionMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmEntradaInvMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMedioPagoMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMonedaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmPedidoMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProductoMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProveedorMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmReciboMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmSucursalMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmTransaccionMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUnidadMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUsuarioMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmVendedorMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAdministracionRpts.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmComercialRpts.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProcesoCajaRpts.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionRpts.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAbrirCajasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmApartadosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmBodegasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCajasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCierreCajasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClientesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCorteCajasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCotizacionesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmFacturaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmEntradasInvView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmFacturasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmMediosPagoView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmMonedasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmPedidosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProductosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProveedoresView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmRecibosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmSucursalesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmUnidadesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmUsuariosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmVendedoresView.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlAdministracion.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlComercial.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlConfiguracion.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlDesplizarMenu.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlProcesoCaja.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlTransaccion.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpClientes.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpDirecciones.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpMedioPago.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpMedioPagoPRO.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPrincipal.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmAcceso.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPage.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpProductos.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPagePopUp.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Properties.Resources.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Prototipos_de_diseños.resources
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csproj.GenerateResource.Cache
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+C:\Users\Reidy\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.pdb
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.pdb
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.pdb
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.xml
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Diseño_View.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Diseno_Mant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmAbrirCajaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmApartadoMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmBodegaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCajaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCierreCajaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClienteMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCorteCajaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCotizacionMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmEntradaInvMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMedioPagoMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMonedaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmPedidoMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProductoMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProveedorMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmReciboMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmSucursalMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmTransaccionMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUnidadMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUsuarioMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmVendedorMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAdministracionRpts.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmComercialRpts.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProcesoCajaRpts.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionRpts.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAbrirCajasView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmApartadosView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmBodegasView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCajasView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCierreCajasView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClientesView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCorteCajasView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCotizacionesView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresasView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmFacturaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmEntradasInvView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmFacturasView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmMediosPagoView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmMonedasView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmPedidosView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilesView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProductosView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProveedoresView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmRecibosView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmSucursalesView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionesView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmUnidadesView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmUsuariosView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmVendedoresView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlAdministracion.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlComercial.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlConfiguracion.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlDesplizarMenu.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlProcesoCaja.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlTransaccion.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpClientes.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpDirecciones.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpMedioPago.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpMedioPagoPRO.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPrincipal.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmAcceso.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPage.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpProductos.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPagePopUp.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Properties.Resources.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Prototipos_de_diseños.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.pdb
+C:\Users\Keves\Desktop\Reidy\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+C:\Users\Keves\Desktop\Reidy\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+C:\Users\Keves\Desktop\Reidy\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.pdb
+C:\Users\Reidy\Desktop\IntegraPOS_Reidy\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+C:\Users\Reidy\Desktop\IntegraPOS_Reidy\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+C:\Users\Reidy\Desktop\IntegraPOS_Reidy\IntegraPOS.View\obj\Debug\IntegraPOS.pdb
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.pdb
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.dll
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.pdb
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.xml
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Diseño_View.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Diseno_Mant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmAbrirCajaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmApartadoMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmBodegaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCajaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCierreCajaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClienteMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCorteCajaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCotizacionMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmEntradaInvMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMedioPagoMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMonedaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmPedidoMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProductoMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProveedorMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmReciboMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmSucursalMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmTransaccionMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUnidadMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUsuarioMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmVendedorMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAdministracionRpts.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmComercialRpts.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProcesoCajaRpts.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionRpts.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAbrirCajasView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmApartadosView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmBodegasView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCajasView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCierreCajasView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClientesView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCorteCajasView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCotizacionesView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresasView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmFacturaMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmEntradasInvView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmFacturasView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmMediosPagoView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmMonedasView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmPedidosView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilesView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilMant.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProductosView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProveedoresView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmRecibosView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmSucursalesView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionesView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmUnidadesView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmUsuariosView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmVendedoresView.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlAdministracion.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlComercial.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlConfiguracion.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlDesplizarMenu.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlProcesoCaja.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlTransaccion.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpClientes.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpDirecciones.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpMedioPago.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpMedioPagoPRO.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPrincipal.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmAcceso.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPage.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpProductos.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPagePopUp.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Properties.Resources.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Prototipos_de_diseños.resources
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+C:\Users\Kevin\Desktop\IntegraPOS Actualizado 20-02-2018\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.pdb
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Diseño_View.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Diseno_Mant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmAbrirCajaMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmApartadoMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmBodegaMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCajaMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCierreCajaMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClienteMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCorteCajaMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCotizacionMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmEntradaInvMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMedioPagoMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMonedaMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmPedidoMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProductoMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProveedorMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmReciboMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmSucursalMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmTransaccionMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUnidadMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUsuarioMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmVendedorMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAdministracionRpts.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.frmComercialRpts.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.frmFormatoView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProcesoCajaRpts.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.frmReportView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionRpts.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlExistenciasInventario.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlGeneral.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlKardexInventario.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlListadoClientes.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlListadoVendedores.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAbrirCajasView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmApartadosView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmBodegasView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCajasView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCierreCajasView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClientesView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresaMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCorteCajasView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCotizacionesView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresasView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmFacturaMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmEntradasInvView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmFacturasView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmMediosPagoView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmMonedasView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmPedidosView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilesView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilMant.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProductosView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProveedoresView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmRecibosView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmSucursalesView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionesView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmUnidadesView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmUsuariosView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmVendedoresView.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlAdministracion.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlComercial.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlConfiguracion.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlDesplizarMenu.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlProcesoCaja.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlTransaccion.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpClientes.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpDirecciones.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpMedioPago.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpMedioPagoPRO.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPrincipal.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmAcceso.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPage.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpProductos.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPagePopUp.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Properties.Resources.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Prototipos_de_diseños.resources
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.pdb
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\FlashControlV71.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\stdole.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.pdb
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.xml
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+C:\Users\Kevin\Desktop\KEVIN\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.pdb
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.pdb
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.pdb
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.Shared.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Design.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Fonts.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\FlashControlV71.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\stdole.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\ShockwaveFlashObjects.dll
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.pdb
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.pdb
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.xml
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csprojResolveAssemblyReference.cache
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Diseño_View.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Diseno_Mant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmAbrirCajaMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmApartadoMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmBodegaMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCajaMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCierreCajaMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClienteMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCorteCajaMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCotizacionMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmEntradaInvMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMedioPagoMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMonedaMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmPedidoMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProductoMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProveedorMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmReciboMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmSucursalMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmTransaccionMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUnidadMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUsuarioMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmVendedorMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAdministracionRpts.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.frmComercialRpts.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.frmFormatoView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProcesoCajaRpts.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.frmReportView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionRpts.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlExistenciasInventario.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlGeneral.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlKardexInventario.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlListadoClientes.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlListadoVendedores.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAbrirCajasView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmApartadosView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmBodegasView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCajasView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCierreCajasView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClientesView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresaMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCorteCajasView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCotizacionesView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresasView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmFacturaMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmEntradasInvView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmFacturasView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmMediosPagoView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmMonedasView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmPedidosView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilesView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilMant.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProductosView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProveedoresView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmRecibosView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmSucursalesView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionesView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmUnidadesView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmUsuariosView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmVendedoresView.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlAdministracion.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlComercial.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlConfiguracion.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlDesplizarMenu.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlProcesoCaja.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlTransaccion.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpClientes.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpDirecciones.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpMedioPago.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpMedioPagoPRO.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPrincipal.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmAcceso.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPage.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpProductos.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPagePopUp.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Properties.Resources.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Prototipos_de_diseños.resources
+D:\Trabajo\integraPos\Actual\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csproj.GenerateResource.Cache
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\IntegraPOS.exe
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\IntegraPOS.pdb
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\MetroFramework.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\Transitions.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\Dapper.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\FlashControlV71.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\stdole.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\Transitions.pdb
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\bin\Debug\Dapper.xml
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.View.csprojResolveAssemblyReference.cache
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Diseño_View.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Diseno_Mant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmAbrirCajaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmApartadoMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmBodegaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCajaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCierreCajaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClienteMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCorteCajaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCotizacionMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmEntradaInvMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMedioPagoMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMonedaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmPedidoMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProductoMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProveedorMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmReciboMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmSucursalMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmTransaccionMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUnidadMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUsuarioMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmVendedorMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAdministracionRpts.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.frmComercialRpts.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.frmFormatoView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProcesoCajaRpts.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.frmReportView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionRpts.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlExistenciasInventario.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlGeneral.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlKardexInventario.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlListadoClientes.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlListadoVendedores.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAbrirCajasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmApartadosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmBodegasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCajasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCierreCajasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClientesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCorteCajasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCotizacionesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.frmFacturaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmEntradasInvView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmFacturasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmMediosPagoView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmMonedasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmPedidosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProductosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProveedoresView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmRecibosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmSucursalesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmUnidadesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmUsuariosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmVendedoresView.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlAdministracion.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlComercial.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlConfiguracion.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlDesplizarMenu.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlProcesoCaja.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlTransaccion.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpClientes.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpDirecciones.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpMedioPago.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpMedioPagoPRO.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPrincipal.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.frmAcceso.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPage.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpProductos.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPagePopUp.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Properties.Resources.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.Prototipos_de_diseños.resources
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.View.csproj.GenerateResource.Cache
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+C:\Users\Reidy\Desktop\IntegraPOS_Jonathan\IntegraPOS.View\obj\Debug\IntegraPOS.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\FlashControlV71.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\stdole.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.Model.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\Transitions.pdb
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\bin\Debug\Dapper.xml
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csprojResolveAssemblyReference.cache
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Diseño_View.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Diseno_Mant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmAbrirCajaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmApartadoMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmBodegaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCajaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCierreCajaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClienteMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCorteCajaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmCotizacionMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmEntradaInvMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMedioPagoMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmMonedaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmPedidoMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProductoMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmProveedorMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmReciboMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmSucursalMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmTransaccionMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUnidadMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmUsuarioMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Mants.frmVendedorMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAdministracionRpts.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.frmComercialRpts.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.frmFormatoView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProcesoCajaRpts.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.frmReportView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionRpts.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlExistenciasInventario.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlGeneral.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlKardexInventario.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlListadoClientes.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Reportes.Panels.pnlListadoVendedores.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmAbrirCajasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmApartadosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmBodegasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCajasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCierreCajasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmClientesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCorteCajasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmCotizacionesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmEmpresasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmFacturaMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmEntradasInvView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmFacturasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmMediosPagoView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmMonedasView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmPedidosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPerfilMant.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProductosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmProveedoresView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmRecibosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmSucursalesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmTransaccionesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmUnidadesView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmUsuariosView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.Views.frmVendedoresView.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlAdministracion.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlComercial.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlConfiguracion.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlDesplizarMenu.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlProcesoCaja.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Panels.pnlTransaccion.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpClientes.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpDirecciones.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpMedioPago.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmPopUpMedioPagoPRO.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.Forms.frmPrincipal.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.frmAcceso.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPage.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Pages.PopUps.frmPopUpProductos.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.MasterPagePopUp.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Properties.Resources.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.Prototipos_de_diseños.resources
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.View.csproj.GenerateResource.Cache
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+C:\Users\Reidy\Desktop\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.pdb
+C:\Users\Reidy\Desktop\Repositorio IntegraPOS\IntegraPOS\IntegraPOS.View\bin\Debug\IntegraPOS.exe.config
+C:\Users\Reidy\Desktop\Repositorio IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.exe
+C:\Users\Reidy\Desktop\Repositorio IntegraPOS\IntegraPOS\IntegraPOS.View\obj\Debug\IntegraPOS.pdb

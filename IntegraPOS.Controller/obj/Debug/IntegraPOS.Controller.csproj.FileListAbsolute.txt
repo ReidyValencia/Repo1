@@ -1,0 +1,8 @@
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\bin\Debug\IntegraPOS.Controller.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\bin\Debug\IntegraPOS.Controller.pdb
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\obj\Debug\IntegraPOS.Controller.dll
+C:\Users\Keves\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\obj\Debug\IntegraPOS.Controller.pdb
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\bin\Debug\IntegraPOS.Controller.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\bin\Debug\IntegraPOS.Controller.pdb
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\obj\Debug\IntegraPOS.Controller.dll
+C:\Users\Kevin\Desktop\IntegraPOS\IntegraPOS\IntegraPOS.Controller\obj\Debug\IntegraPOS.Controller.pdb

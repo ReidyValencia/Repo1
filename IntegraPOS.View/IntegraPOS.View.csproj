@@ -1,0 +1,982 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F102DD14-CF86-486D-9101-15FC16D249A8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IntegraPOS</RootNamespace>
+    <AssemblyName>IntegraPOS</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Transitions, Version=1.2.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\dot-net-transitions.1.2.1.0\lib\net40-full\Transitions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\RegExp.cs" />
+    <Compile Include="Clases\ValidarControles.cs" />
+    <Compile Include="Diseño View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diseño View.Designer.cs">
+      <DependentUpon>Diseño View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Diseno Mant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Diseno Mant.Designer.cs">
+      <DependentUpon>Diseno Mant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmAbrirCajaMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmAbrirCajaMant.Designer.cs">
+      <DependentUpon>frmAbrirCajaMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmApartadoMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmApartadoMant.Designer.cs">
+      <DependentUpon>frmApartadoMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmBodegaMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmBodegaMant.Designer.cs">
+      <DependentUpon>frmBodegaMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmCajaMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmCajaMant.Designer.cs">
+      <DependentUpon>frmCajaMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmCierreCajaMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmCierreCajaMant.Designer.cs">
+      <DependentUpon>frmCierreCajaMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmClienteMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmClienteMant.designer.cs">
+      <DependentUpon>frmClienteMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmCorteCajaMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmCorteCajaMant.Designer.cs">
+      <DependentUpon>frmCorteCajaMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmCotizacionMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmCotizacionMant.Designer.cs">
+      <DependentUpon>frmCotizacionMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmEntradaInvMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmEntradaInvMant.Designer.cs">
+      <DependentUpon>frmEntradaInvMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmMedioPagoMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmMedioPagoMant.Designer.cs">
+      <DependentUpon>frmMedioPagoMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmMonedaMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmMonedaMant.Designer.cs">
+      <DependentUpon>frmMonedaMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmPedidoMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmPedidoMant.Designer.cs">
+      <DependentUpon>frmPedidoMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmProductoMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmProductoMant.Designer.cs">
+      <DependentUpon>frmProductoMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmProveedorMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmProveedorMant.Designer.cs">
+      <DependentUpon>frmProveedorMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmReciboMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmReciboMant.Designer.cs">
+      <DependentUpon>frmReciboMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmSucursalMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmSucursalMant.Designer.cs">
+      <DependentUpon>frmSucursalMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmTransaccionMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmTransaccionMant.Designer.cs">
+      <DependentUpon>frmTransaccionMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmUnidadMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmUnidadMant.Designer.cs">
+      <DependentUpon>frmUnidadMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmUsuarioMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmUsuarioMant.Designer.cs">
+      <DependentUpon>frmUsuarioMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmVendedorMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmVendedorMant.Designer.cs">
+      <DependentUpon>frmVendedorMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\frmAdministracionRpts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\frmAdministracionRpts.Designer.cs">
+      <DependentUpon>frmAdministracionRpts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\frmComercialRpts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\frmComercialRpts.Designer.cs">
+      <DependentUpon>frmComercialRpts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\frmFormatoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\frmFormatoView.Designer.cs">
+      <DependentUpon>frmFormatoView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\frmProcesoCajaRpts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\frmProcesoCajaRpts.Designer.cs">
+      <DependentUpon>frmProcesoCajaRpts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\frmReportView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\frmReportView.Designer.cs">
+      <DependentUpon>frmReportView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\frmTransaccionRpts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\frmTransaccionRpts.Designer.cs">
+      <DependentUpon>frmTransaccionRpts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\Panels\pnlDeslizarMenuReportes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\Panels\pnlDeslizarMenuReportes.Designer.cs">
+      <DependentUpon>pnlDeslizarMenuReportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\Panels\pnlExistenciasInventario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\Panels\pnlExistenciasInventario.Designer.cs">
+      <DependentUpon>pnlExistenciasInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\Panels\pnlGeneral.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\Panels\pnlGeneral.Designer.cs">
+      <DependentUpon>pnlGeneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\Panels\pnlKardexInventario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\Panels\pnlKardexInventario.Designer.cs">
+      <DependentUpon>pnlKardexInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\Panels\pnlListadoBodegas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\Panels\pnlListadoBodegas.Designer.cs">
+      <DependentUpon>pnlListadoBodegas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\Panels\pnlListadoClientes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\Panels\pnlListadoClientes.Designer.cs">
+      <DependentUpon>pnlListadoClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\Panels\pnlListadoUnidades.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\Panels\pnlListadoUnidades.Designer.cs">
+      <DependentUpon>pnlListadoUnidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\Panels\pnlListadoVendedores.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Reportes\Panels\pnlListadoVendedores.Designer.cs">
+      <DependentUpon>pnlListadoVendedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmAbrirCajasView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmAbrirCajasView.Designer.cs">
+      <DependentUpon>frmAbrirCajasView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmApartadosView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmApartadosView.Designer.cs">
+      <DependentUpon>frmApartadosView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmBodegasView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmBodegasView.Designer.cs">
+      <DependentUpon>frmBodegasView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmCajasView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmCajasView.Designer.cs">
+      <DependentUpon>frmCajasView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmCierreCajasView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmCierreCajasView.Designer.cs">
+      <DependentUpon>frmCierreCajasView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmClientesView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmClientesView.Designer.cs">
+      <DependentUpon>frmClientesView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmEmpresaMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmEmpresaMant.Designer.cs">
+      <DependentUpon>frmEmpresaMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmCorteCajasView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmCorteCajasView.Designer.cs">
+      <DependentUpon>frmCorteCajasView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmCotizacionesView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmCotizacionesView.Designer.cs">
+      <DependentUpon>frmCotizacionesView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmEmpresasView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmEmpresasView.Designer.cs">
+      <DependentUpon>frmEmpresasView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmFacturaMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmFacturaMant.Designer.cs">
+      <DependentUpon>frmFacturaMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmEntradasInvView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmEntradasInvView.Designer.cs">
+      <DependentUpon>frmEntradasInvView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmFacturasView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmFacturasView.Designer.cs">
+      <DependentUpon>frmFacturasView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmMediosPagoView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmMediosPagoView.Designer.cs">
+      <DependentUpon>frmMediosPagoView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmMonedasView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmMonedasView.Designer.cs">
+      <DependentUpon>frmMonedasView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmPedidosView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmPedidosView.Designer.cs">
+      <DependentUpon>frmPedidosView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmPerfilesView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmPerfilesView.Designer.cs">
+      <DependentUpon>frmPerfilesView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmPerfilMant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Mants\frmPerfilMant.Designer.cs">
+      <DependentUpon>frmPerfilMant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmProductosView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmProductosView.Designer.cs">
+      <DependentUpon>frmProductosView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmProveedoresView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmProveedoresView.Designer.cs">
+      <DependentUpon>frmProveedoresView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmRecibosView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmRecibosView.Designer.cs">
+      <DependentUpon>frmRecibosView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmSucursalesView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmSucursalesView.Designer.cs">
+      <DependentUpon>frmSucursalesView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmTransaccionesView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmTransaccionesView.Designer.cs">
+      <DependentUpon>frmTransaccionesView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmUnidadesView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmUnidadesView.Designer.cs">
+      <DependentUpon>frmUnidadesView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmUsuariosView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmUsuariosView.Designer.cs">
+      <DependentUpon>frmUsuariosView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmVendedoresView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\Views\frmVendedoresView.Designer.cs">
+      <DependentUpon>frmVendedoresView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Panels\pnlAdministracion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Panels\pnlAdministracion.Designer.cs">
+      <DependentUpon>pnlAdministracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Panels\pnlComercial.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Panels\pnlComercial.Designer.cs">
+      <DependentUpon>pnlComercial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Panels\pnlConfiguracion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Panels\pnlConfiguracion.Designer.cs">
+      <DependentUpon>pnlConfiguracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Panels\pnlDesplizarMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Panels\pnlDesplizarMenu.Designer.cs">
+      <DependentUpon>pnlDesplizarMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Panels\pnlProcesoCaja.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Panels\pnlProcesoCaja.Designer.cs">
+      <DependentUpon>pnlProcesoCaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Panels\pnlTransaccion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pages\Panels\pnlTransaccion.Designer.cs">
+      <DependentUpon>pnlTransaccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PopUps\frmPopUpDirecciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\PopUps\frmPopUpDirecciones.Designer.cs">
+      <DependentUpon>frmPopUpDirecciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PopUps\frmPopUpClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\PopUps\frmPopUpClientes.Designer.cs">
+      <DependentUpon>frmPopUpClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PopUps\frmPopUpMedioPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\PopUps\frmPopUpMedioPago.Designer.cs">
+      <DependentUpon>frmPopUpMedioPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PopUps\frmPopUpMedioPagoPRO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\PopUps\frmPopUpMedioPagoPRO.Designer.cs">
+      <DependentUpon>frmPopUpMedioPagoPRO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Forms\frmAcceso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\frmAcceso.designer.cs">
+      <DependentUpon>frmAcceso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\IForm.cs" />
+    <Compile Include="Pages\Forms\MasterPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Forms\MasterPage.Designer.cs">
+      <DependentUpon>MasterPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PopUps\frmPopUpProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\PopUps\frmPopUpProductos.Designer.cs">
+      <DependentUpon>frmPopUpProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PopUps\MasterPagePopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\PopUps\MasterPagePopUp.Designer.cs">
+      <DependentUpon>MasterPagePopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\MensajeView.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Prototipos de diseños.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prototipos de diseños.Designer.cs">
+      <DependentUpon>Prototipos de diseños.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\rec\emp_0\for\ForCOM_CLIVEN001.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ForCOM_CLIVEN001.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Resources\rec\emp_0\rep\RepCOM_ListadodeClientes.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RepCOM_ListadodeClientes.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Resources\rec\emp_0\rep\RepCOM_ListadodeVendedores.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RepCOM_ListadodeVendedores.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SYSWF_IntegraPOSDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SYSWF_IntegraPOSDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Diseño View.resx">
+      <DependentUpon>Diseño View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Diseno Mant.resx">
+      <DependentUpon>Diseno Mant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmAbrirCajaMant.resx">
+      <DependentUpon>frmAbrirCajaMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmApartadoMant.resx">
+      <DependentUpon>frmApartadoMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmBodegaMant.resx">
+      <DependentUpon>frmBodegaMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmCajaMant.resx">
+      <DependentUpon>frmCajaMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmCierreCajaMant.resx">
+      <DependentUpon>frmCierreCajaMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmClienteMant.resx">
+      <DependentUpon>frmClienteMant.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmCorteCajaMant.resx">
+      <DependentUpon>frmCorteCajaMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmCotizacionMant.resx">
+      <DependentUpon>frmCotizacionMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmEntradaInvMant.resx">
+      <DependentUpon>frmEntradaInvMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmMedioPagoMant.resx">
+      <DependentUpon>frmMedioPagoMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmMonedaMant.resx">
+      <DependentUpon>frmMonedaMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmPedidoMant.resx">
+      <DependentUpon>frmPedidoMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmProductoMant.resx">
+      <DependentUpon>frmProductoMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmProveedorMant.resx">
+      <DependentUpon>frmProveedorMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmReciboMant.resx">
+      <DependentUpon>frmReciboMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmSucursalMant.resx">
+      <DependentUpon>frmSucursalMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmTransaccionMant.resx">
+      <DependentUpon>frmTransaccionMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmUnidadMant.resx">
+      <DependentUpon>frmUnidadMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmUsuarioMant.resx">
+      <DependentUpon>frmUsuarioMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmVendedorMant.resx">
+      <DependentUpon>frmVendedorMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Reportes\frmAdministracionRpts.resx">
+      <DependentUpon>frmAdministracionRpts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Reportes\frmComercialRpts.resx">
+      <DependentUpon>frmComercialRpts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Reportes\frmFormatoView.resx">
+      <DependentUpon>frmFormatoView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Reportes\frmProcesoCajaRpts.resx">
+      <DependentUpon>frmProcesoCajaRpts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Reportes\frmReportView.resx">
+      <DependentUpon>frmReportView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Reportes\frmTransaccionRpts.resx">
+      <DependentUpon>frmTransaccionRpts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Reportes\Panels\pnlExistenciasInventario.resx">
+      <DependentUpon>pnlExistenciasInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Reportes\Panels\pnlGeneral.resx">
+      <DependentUpon>pnlGeneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Reportes\Panels\pnlKardexInventario.resx">
+      <DependentUpon>pnlKardexInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Reportes\Panels\pnlListadoClientes.resx">
+      <DependentUpon>pnlListadoClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Reportes\Panels\pnlListadoVendedores.resx">
+      <DependentUpon>pnlListadoVendedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmAbrirCajasView.resx">
+      <DependentUpon>frmAbrirCajasView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmApartadosView.resx">
+      <DependentUpon>frmApartadosView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmBodegasView.resx">
+      <DependentUpon>frmBodegasView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmCajasView.resx">
+      <DependentUpon>frmCajasView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmCierreCajasView.resx">
+      <DependentUpon>frmCierreCajasView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmClientesView.resx">
+      <DependentUpon>frmClientesView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmEmpresaMant.resx">
+      <DependentUpon>frmEmpresaMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmCorteCajasView.resx">
+      <DependentUpon>frmCorteCajasView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmCotizacionesView.resx">
+      <DependentUpon>frmCotizacionesView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmEmpresasView.resx">
+      <DependentUpon>frmEmpresasView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmFacturaMant.resx">
+      <DependentUpon>frmFacturaMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmEntradasInvView.resx">
+      <DependentUpon>frmEntradasInvView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmFacturasView.resx">
+      <DependentUpon>frmFacturasView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmMediosPagoView.resx">
+      <DependentUpon>frmMediosPagoView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmMonedasView.resx">
+      <DependentUpon>frmMonedasView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmPedidosView.resx">
+      <DependentUpon>frmPedidosView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmPerfilesView.resx">
+      <DependentUpon>frmPerfilesView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Mants\frmPerfilMant.resx">
+      <DependentUpon>frmPerfilMant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmProductosView.resx">
+      <DependentUpon>frmProductosView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmProveedoresView.resx">
+      <DependentUpon>frmProveedoresView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmRecibosView.resx">
+      <DependentUpon>frmRecibosView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmSucursalesView.resx">
+      <DependentUpon>frmSucursalesView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmTransaccionesView.resx">
+      <DependentUpon>frmTransaccionesView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmUnidadesView.resx">
+      <DependentUpon>frmUnidadesView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmUsuariosView.resx">
+      <DependentUpon>frmUsuariosView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\Views\frmVendedoresView.resx">
+      <DependentUpon>frmVendedoresView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Panels\pnlAdministracion.resx">
+      <DependentUpon>pnlAdministracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Panels\pnlComercial.resx">
+      <DependentUpon>pnlComercial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Panels\pnlConfiguracion.resx">
+      <DependentUpon>pnlConfiguracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Panels\pnlDesplizarMenu.resx">
+      <DependentUpon>pnlDesplizarMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Panels\pnlProcesoCaja.resx">
+      <DependentUpon>pnlProcesoCaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Panels\pnlTransaccion.resx">
+      <DependentUpon>pnlTransaccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\PopUps\frmPopUpClientes.resx">
+      <DependentUpon>frmPopUpClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\PopUps\frmPopUpDirecciones.resx">
+      <DependentUpon>frmPopUpDirecciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\PopUps\frmPopUpMedioPago.resx">
+      <DependentUpon>frmPopUpMedioPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\PopUps\frmPopUpMedioPagoPRO.resx">
+      <DependentUpon>frmPopUpMedioPagoPRO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\frmAcceso.resx">
+      <DependentUpon>frmAcceso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Forms\MasterPage.resx">
+      <DependentUpon>MasterPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\PopUps\frmPopUpProductos.resx">
+      <DependentUpon>frmPopUpProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\PopUps\MasterPagePopUp.resx">
+      <DependentUpon>MasterPagePopUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Prototipos de diseños.resx">
+      <DependentUpon>Prototipos de diseños.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\rec\emp_0\for\ForCOM_CLIVEN001.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ForCOM_CLIVEN001.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\rec\emp_0\rep\RepCOM_ListadodeClientes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RepCOM_ListadodeClientes.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\rec\emp_0\rep\RepCOM_ListadodeVendedores.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RepCOM_ListadodeVendedores.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\frmPopUpClientes.datasource" />
+    <None Include="Properties\DataSources\IntegraPOS.Model.Entidades.Clases.ClienteModel.datasource" />
+    <None Include="Properties\DataSources\IntegraPOS.Model.Entidades.Clases.MedioPagoModel.datasource" />
+    <None Include="Properties\DataSources\IntegraPOS.Model.Entidades.Clases.TransaccionEncabezadoModel.datasource" />
+    <None Include="Properties\DataSources\IntegraPOS.Model.Entidades.Miscelaneos.DireccionModelMisc.datasource" />
+    <None Include="Properties\DataSources\IntegraPOS.Model.Entidades.PopUpProductoModel.datasource" />
+    <None Include="Properties\DataSources\IntegraPOS.Model.Entidades.PopUps.PopUpMedioPagoModel.datasource" />
+    <None Include="Properties\DataSources\IntegraPOS.Model.Entidades.PopUps.PopUpProductoModel.datasource" />
+    <None Include="Properties\DataSources\IntegraPOS.Model.PopUpClienteModel.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SYSWF_IntegraPOSDataSet.xsc">
+      <DependentUpon>SYSWF_IntegraPOSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SYSWF_IntegraPOSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SYSWF_IntegraPOSDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SYSWF_IntegraPOSDataSet.xss">
+      <DependentUpon>SYSWF_IntegraPOSDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\IntegraPOS.Model\IntegraPOS.Model.csproj">
+      <Project>{5c279076-960c-46c2-9436-459f84354e81}</Project>
+      <Name>IntegraPOS.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Localization\es\MetroMessageBoxControl.xml" />
+    <EmbeddedResource Include="Localization\es\MetroToggle.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Localization\en\MetroToggle.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Localization\en\MetroMessageBoxControl.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\img\abrirCajaCir128x128.png" />
+    <Content Include="Resources\img\apartadosCir128x128.png" />
+    <Content Include="Resources\img\aprobarCir128x128.png" />
+    <Content Include="Resources\img\aprobarCir48x48.png" />
+    <Content Include="Resources\img\bloqueoCir128x128.png" />
+    <Content Include="Resources\img\bodegasCir128x128.png" />
+    <Content Include="Resources\img\buscarCir128x128.png" />
+    <Content Include="Resources\img\buscarCir48x48.png" />
+    <Content Include="Resources\img\buscarMasCir128x128.png" />
+    <Content Include="Resources\img\buscarMasCir48x48.png" />
+    <Content Include="Resources\img\cajaCir128x128.png" />
+    <Content Include="Resources\img\cajasConfigCir128x128.png" />
+    <Content Include="Resources\img\calculadoraCir128x128.png" />
+    <Content Include="Resources\img\calendarioCir128x128.png" />
+    <Content Include="Resources\img\carritoComprasCir128x128.png" />
+    <Content Include="Resources\img\cerrarCajaCir128x128.png" />
+    <Content Include="Resources\img\cerrarSesionCir128x128.png" />
+    <Content Include="Resources\img\cerrarSesionCir96x96.png" />
+    <Content Include="Resources\img\clientesCir128x128.png" />
+    <Content Include="Resources\img\comprasCir128x128.png" />
+    <Content Include="Resources\img\configuracionCir96x96.png" />
+    <Content Include="Resources\img\copiarCir128x128.png" />
+    <Content Include="Resources\img\copiarCir48x48.png" />
+    <Content Include="Resources\img\cortarCir128x128.png" />
+    <Content Include="Resources\img\corteCajaCir128x128.png" />
+    <Content Include="Resources\img\cotizacionesCir128x128.png" />
+    <Content Include="Resources\img\editarCir128x128.png" />
+    <Content Include="Resources\img\editarCir48x48.png" />
+    <Content Include="Resources\img\eliminarCir48x48.png" />
+    <Content Include="Resources\img\empresaCir128x128.png" />
+    <Content Include="Resources\img\EnterCir48x48.png" />
+    <Content Include="Resources\img\EscCir48x48.png" />
+    <Content Include="Resources\img\F10Cir48x48.png" />
+    <Content Include="Resources\img\F11Cir48x48.png" />
+    <Content Include="Resources\img\F12Cir48x48.png" />
+    <Content Include="Resources\img\F1Cir48x48.png" />
+    <Content Include="Resources\img\F2Cir48x48.png" />
+    <Content Include="Resources\img\F3Cir48x48.png" />
+    <Content Include="Resources\img\F4Cir48x48.png" />
+    <Content Include="Resources\img\F5Cir48x48.png" />
+    <Content Include="Resources\img\F6Cir48x48.png" />
+    <Content Include="Resources\img\F7Cir48x48.png" />
+    <Content Include="Resources\img\F8Cir48x48.png" />
+    <Content Include="Resources\img\F9Cir48x48.png" />
+    <Content Include="Resources\img\facturasCir128x128.png" />
+    <Content Include="Resources\img\imprimirCir128x128.png" />
+    <Content Include="Resources\img\imprimirFichaCir48x48.png" />
+    <Content Include="Resources\img\ingresoProductosCir128x128.png" />
+    <Content Include="Resources\img\inicioCir128x128.png" />
+    <Content Include="Resources\img\inicioCir48x48.png" />
+    <Content Include="Resources\img\logoIntegraPOS420x150-v10.png" />
+    <Content Include="Resources\img\logoIntegraPOS420x150-v11.png" />
+    <Content Include="Resources\img\logoIntegraPOS420x150-v3.png" />
+    <Content Include="Resources\img\logoIntegraPOS420x150-v4.png" />
+    <Content Include="Resources\img\logoIntegraPOS420x150-v5.png" />
+    <Content Include="Resources\img\logoIntegraPOS420x150-v6.png" />
+    <Content Include="Resources\img\logoIntegraPOS420x150-v7.png" />
+    <Content Include="Resources\img\logoIntegraPOS420x150-v8.png" />
+    <Content Include="Resources\img\logoIntegraPOS420x150-v9.png" />
+    <Content Include="Resources\img\logointegrapos420x150_v9_dOy_1.ico" />
+    <Content Include="Resources\img\logointegrapos420x150_v9_dOy_2.ico" />
+    <Content Include="Resources\img\logointegrapos420x150_v9_dOy_3.ico" />
+    <Content Include="Resources\img\mantAdminCir96x96.png" />
+    <Content Include="Resources\img\mantComercialCir96x96.png" />
+    <Content Include="Resources\img\mediosPagoCir128x128.png" />
+    <Content Include="Resources\img\monedasCir128x128.png" />
+    <Content Include="Resources\img\nuevoCir128x128.png" />
+    <Content Include="Resources\img\nuevoCir48x48.png" />
+    <Content Include="Resources\img\pdf48x48.png" />
+    <Content Include="Resources\img\pdf48x482.png" />
+    <Content Include="Resources\img\pdfCir128x128.png" />
+    <Content Include="Resources\img\pedidosCir128x128.png" />
+    <Content Include="Resources\img\perfilesCir128x128.png" />
+    <Content Include="Resources\img\procesosCajaCir96x96.png" />
+    <Content Include="Resources\img\productosCir128x128.png" />
+    <Content Include="Resources\img\proveedoresCir128x128.png" />
+    <Content Include="Resources\img\recibosCir128x128.png" />
+    <Content Include="Resources\img\refrescarCir128x128.png" />
+    <Content Include="Resources\img\refrescarCir48x48.png" />
+    <Content Include="Resources\img\regresarCir48x48.png" />
+    <Content Include="Resources\img\reImprimirCir128x128.png" />
+    <Content Include="Resources\img\reportesCir128x128.png" />
+    <Content Include="Resources\img\restringirCir128x128.png" />
+    <Content Include="Resources\img\sincronizarCir128x128.png" />
+    <Content Include="Resources\img\sucursalesCir128x128.png" />
+    <Content Include="Resources\img\tarjetaCir128x128.png" />
+    <Content Include="Resources\img\transaccionesCir128x128.png" />
+    <Content Include="Resources\img\transaccionesCir96x96.png" />
+    <Content Include="Resources\img\unidadesCir128x128.png" />
+    <Content Include="Resources\img\usuariosCir128x128.png" />
+    <Content Include="Resources\img\vendedoresCir128x128.png" />
+    <Content Include="Resources\img\xls48x48.png" />
+    <Content Include="Resources\img\xls48x482.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\rec\emp_1\for\" />
+    <Folder Include="Resources\rec\emp_1\rep\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
